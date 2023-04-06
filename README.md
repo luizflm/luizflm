@@ -2,7 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizflm&show_icons=true&theme=tokyonight&card_width=390px&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizflm&layout=compact&card_width=390px&line_height=20)](https://github.com/luizflm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizflm&layout=compact&card_width=390px&line_height=20&theme=tokyonight)](https://github.com/luizflm/github-readme-stats)
 
 - 🖥️ Desenvolvedor Full stack
 - 👨‍🎓 Estudando atualmente: Laravel (Criação de API's e sistemas)
