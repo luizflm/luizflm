@@ -5,13 +5,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizflm&layout=compact&card_width=390px&line_height=20&theme=tokyonight)](https://github.com/luizflm/github-readme-stats)
 
 - 🖥️ Desenvolvedor Full stack
-- 👨‍🎓 Estudando atualmente: Livewire
+- 👨‍🎓 Estudando atualmente: Vue (com testes unitários e e2e)
 - 📧 Contate-me no email: lepinholima@gmail.com
 
 <h2>🛠️ Tecnologias</h2>
 <div style="display:inline-block">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
