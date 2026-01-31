@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizflm&layout=compact&card_width=390px&line_height=20&theme=tokyonight)](https://github.com/luizflm/github-readme-stats)
 
 - 🖥️ Desenvolvedor Full stack
-- 👨‍🎓 Estudando atualmente: Vue (com testes unitários e e2e)
+- 👨‍🎓 Estudando atualmente: Python (FastAPI)
 - 📧 Contate-me no email: lepinholima@gmail.com
 
 <h2>🛠️ Tecnologias</h2>
