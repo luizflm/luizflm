@@ -1,8 +1,4 @@
-## Olá 👦, meu nome é Luiz Felipe, seja bem vindo!
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizflm&show_icons=true&theme=tokyonight&card_width=390px&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizflm&layout=compact&card_width=390px&line_height=20&theme=tokyonight)](https://github.com/luizflm/github-readme-stats)
+## Olá, meu nome é Luiz Felipe, seja bem vindo!
 
 - 🖥️ Desenvolvedor Full stack
 - 👨‍🎓 Estudando atualmente: Python (FastAPI)
