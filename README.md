@@ -6,7 +6,8 @@ Hi! I'm a programmer. Currently I'm working as Mid-Level Fullstack Developer. Re
 
 ## Learning:
 
-- [AI: What is AI and how it works?](https://github.com/luizflm/python_studies/blob/main/ai.md): an explanation of what is AI and how it works.
+- [AI: What is AI and how it works?](https://github.com/luizflm/python_studies/blob/main/ai.md): a general explanation of what is AI and how it works.
+- [Numpy: What is Numpy and how it works?](https://github.com/luizflm/python_studies/blob/main/numpy.md): a general explanation of what is Numpy and how it works.
 - [FastAPI: Concepts](https://github.com/luizflm/python_studies/tree/main/fastapi): some concepts and pratical examples of FastAPI.
 
 ## Building:
