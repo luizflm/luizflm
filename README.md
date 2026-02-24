@@ -1,6 +1,6 @@
 # Luiz Felipe
 
-Hi! I'm a programmer. Currently I'm working as Mid-Level Fullstack Developer. Reach me on:
+Hi! I'm a programmer. Currently I'm working as a Mid-Level Fullstack Developer. Reach me on:
 - Linkedin: https://www.linkedin.com/in/luiz-felipe-de-lima/
 - Email: [lepinholima@gmail.com](mailto:lepinholima@gmail.com)
 
