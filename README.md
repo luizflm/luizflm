@@ -14,3 +14,4 @@ Hi! I'm a programmer. Currently I'm working as Mid-Level Fullstack Developer. Re
 ## Building:
 
 - [Laravel 12 Vue Starter Kit with DaisyUI](https://github.com/luizflm/my-own-vue-starter-kit)
+- [RAG Agent with LangChain and GPT-4.1](https://github.com/luizflm/python_studies/tree/main/langchain/rag_test)
