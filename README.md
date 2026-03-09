@@ -14,4 +14,4 @@ Hi! I'm a programmer. Currently I'm working as a Mid-Level Fullstack Developer. 
 ## Building:
 
 - [Laravel 12 Vue Starter Kit with DaisyUI](https://github.com/luizflm/my-own-vue-starter-kit)
-- [AI Chatbot with RAG](https://github.com/luizflm/chatbot_ia)
+- [AI Chatbot with RAG (Python/Vue)](https://github.com/luizflm/chatbot_ia)
