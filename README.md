@@ -13,5 +13,6 @@ Hi! I'm a programmer. Currently I'm working as a Mid-Level Fullstack Developer. 
 
 ## Building:
 
+- [Kafka + Laravel study project](https://github.com/luizflm/order-pipeline-kafka)
 - [Laravel 12 Vue Starter Kit with DaisyUI](https://github.com/luizflm/my-own-vue-starter-kit)
 - [AI Chatbot with RAG (Python/Vue)](https://github.com/luizflm/chatbot_ia)
