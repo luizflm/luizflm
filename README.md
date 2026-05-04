@@ -13,5 +13,6 @@ Hi! I'm a programmer. Currently I'm working as a Mid-Level Fullstack Developer. 
 
 ## Building:
 
+- [Personal Financial Management Project](https://github.com/luizflm/financial-management)
 - [Kafka + Laravel study project](https://github.com/luizflm/order-pipeline-kafka)
 - [AI Chatbot with RAG (Python/Vue)](https://github.com/luizflm/chatbot_ia)
