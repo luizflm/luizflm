@@ -6,7 +6,7 @@ Olá! Eu sou desenvolvedor de software. Atualmente trabalho como Desenvolvedor F
 
 ## Aprendendo:
 
-- [Kafka with Laravel](https://github.com/luizflm/order-pipeline-kafka): um projeto para aprender a como usar Kafka com Laravel.
+- [Kafka e Laravel](https://github.com/luizflm/order-pipeline-kafka): um projeto para aprender a como usar Kafka com Laravel.
 
 ## Construindo:
 
