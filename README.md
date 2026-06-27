@@ -10,4 +10,4 @@ Olá! Eu sou desenvolvedor de software. Atualmente trabalho como Desenvolvedor F
 
 ## Construindo:
 
-- [Projeto de Gerenciamento Financeiro Pessoal](https://github.com/luizflm/financial-management)
+- [Orcei - Projeto de Gerenciamento Financeiro Pessoal](https://github.com/luizflm/orcei)
