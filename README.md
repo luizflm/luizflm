@@ -6,7 +6,7 @@ Olá! Eu sou desenvolvedor de software. Atualmente trabalho como Desenvolvedor F
 
 ## Aprendendo:
 
-- [Livro Let's Go](https://github.com/luizflm/snippetbox): projeto desenvolvido durante a leitura do livro Let's Go do Alex Edwards.
+- [Snippetbox](https://github.com/luizflm/snippetbox): projeto desenvolvido durante a leitura do livro Let's Go do Alex Edwards.
 
 ## Construindo:
 
