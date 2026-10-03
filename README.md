@@ -2,12 +2,12 @@
 
 Olá! Eu sou desenvolvedor de software. Atualmente trabalho como Desenvolvedor FullStack Pleno. Contate-me:
 - Linkedin: https://www.linkedin.com/in/luiz-felipe-de-lima/
-- Email: [lepinholima@gmail.com](mailto:lepinholima@gmail.com)
+- Email: [luiz.martinss0405@gmail.com](mailto:luiz.martinss0405@gmail.com)
 
 ## Aprendendo:
 
-- [Kafka e Laravel](https://github.com/luizflm/order-pipeline-kafka): um projeto para aprender a como usar Kafka com Laravel.
+- [Livro Let's Go](https://github.com/luizflm/snippetbox): projeto desenvolvido durante a leitura do livro Let's Go do Alex Edwards.
 
 ## Construindo:
 
-- [Orcei - Projeto de Gerenciamento Financeiro Pessoal](https://github.com/luizflm/orcei)
+- [Encurtador de URL](https://github.com/luizflm/go-url-shortener): projeto para colocar em prática os conceitos aprendidos no livro Let's Go.
