@@ -11,4 +11,4 @@ Olá! Eu sou Desenvolvedor de Software Pleno e tenho aproximadamente 3 anos de e
 
 ## Construindo:
 
-- [Processador de Pagamentos](https://github.com/luizflm/go-url-shortener](https://github.com/luizflm/payment_processor)): processador de pagamentos com análise de fraude feito em Go.
+- [Processador de Pagamentos](https://github.com/luizflm/payment_processor): processador de pagamentos com análise de fraude feito em Go.
